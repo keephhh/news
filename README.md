@@ -32,7 +32,7 @@ npm install n -g
 n latest  
 
 ## 切换到某个固定的版本
-n v8.1.0  
+n ^7.6.0  
 ```
 
 ## Build Setup
