@@ -33,7 +33,7 @@
   color: #000;
 }
 .pic img {
-  padding: 0 3px;
+  padding: 0 1px;
   // flex: 1;
   background-size: contain;
   background-repeat: no-repeat;
@@ -45,11 +45,13 @@
   font-size: 12px;
   letter-spacing: 1px;
 }
+
 span img {
   margin-top: 5px;
   width: 15px;
   height: 15px;
   border-radius: 50%;
+  margin-bottom: 3px;
 }
 .more .date {
   position: absolute;

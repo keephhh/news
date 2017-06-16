@@ -18,7 +18,7 @@
                 <span>
                   <img class="avatar" :src="item.thumbnail_pic_s" alt="">
                 </span>
-                <span>
+                <span class="autor">
                   {{item.author_name}}
                 </span>
                 <span class="date">
