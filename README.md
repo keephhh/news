@@ -1,4 +1,6 @@
-# my-project
+# DIY新闻 -- vue.js+socket打造的DIY新闻社区
+
+[演示地址 https://keephhh.com/news](http://tieba.freeedit.cn)
 
 > A Vue.js project
 
