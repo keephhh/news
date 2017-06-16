@@ -4,7 +4,24 @@
 
 [源码地址 ](https://github.com/keephhh/news)
 
-> A Vue.js project
+----
+
+## 注意事项
+
+node版本要求较高 需要使用新版本的node
+
+升级node
+
+```shell
+## 安装node的一个版本管理器n
+npm install n -g  
+
+## 安装最新版本的node
+n latest  
+
+## 切换到某个固定的版本
+n v8.1.0  
+```
 
 ## Build Setup
 
