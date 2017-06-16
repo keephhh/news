@@ -1,6 +1,6 @@
 # DIY新闻 -- vue.js+socket打造的DIY新闻社区
 
-![123](http://orhpccvvl.bkt.clouddn.com/%60MMTD2WUY1TDK_J%25T@PZC5J.png)
+![1](http://orhpccvvl.bkt.clouddn.com/%60MMTD2WUY1TDK_J%25T@PZC5J.png)
 
 [演示地址]( https://keephhh.com/news)
 
@@ -24,6 +24,14 @@ n latest
 ## 切换到某个固定的版本
 n v8.1.0  
 ```
+## 项目主要截图
+
+![2](http://orhpccvvl.bkt.clouddn.com/J%5DUANDXLC3NAUKIUXJTNCQJ.png)
+![2](http://orhpccvvl.bkt.clouddn.com/9JOCX17RTQ%5DKVAK_~%7BIPE4L.png)
+![3](http://orhpccvvl.bkt.clouddn.com/_3%5D9U_N%29%7BVI%7DR1%25H%28@RS%60J7.png)
+![4](http://orhpccvvl.bkt.clouddn.com/%7B%251_G%60ZR5XURJ3SNK%25Z7V2Y.png)
+![5](http://orhpccvvl.bkt.clouddn.com/3@AXJ%282RUF3QPZBPN_THRL0.png)
+![6](http://orhpccvvl.bkt.clouddn.com/6S6OI%5B%5DYVT5K1RK8P%25%288AV0.png)
 
 ## Build Setup
 
